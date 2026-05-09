@@ -25,14 +25,15 @@ I'm a third-year CS (Data Science) student who builds things at the intersection
 
 ## 🚀 Projects Worth Looking At
 
-[![Face Mask Detection](https://github-readme-stats.vercel.app/api/pin/?username=Pranay-Agarwal13&repo=face-mask-detection&theme=tokyonight&hide_border=true)](https://github.com/Pranay-Agarwal13/face-mask-detection)
+[![Face Mask Detection](https://github-readme-stats-8c7mftttg-pranay-agarwal13s-projects.vercel.app/api/pin/?username=Pranay-Agarwal13&repo=face-mask-detection&theme=tokyonight&hide_border=true)](https://github.com/Pranay-Agarwal13/face-mask-detection)
+[![Pong Game](https://github-readme-stats-8c7mftttg-pranay-agarwal13s-projects.vercel.app/api/pin/?username=Pranay-Agarwal13&repo=pong-game&theme=tokyonight&hide_border=true)](https://github.com/Pranay-Agarwal13/pong-game)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Pranay's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pranay-Agarwal13&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pranay-Agarwal13&layout=compact&theme=tokyonight&hide_border=true)
+![Pranay's GitHub Stats](https://github-readme-stats-8c7mftttg-pranay-agarwal13s-projects.vercel.app/api?username=Pranay-Agarwal13&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-8c7mftttg-pranay-agarwal13s-projects.vercel.app/api/top-langs/?username=Pranay-Agarwal13&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Pranay-Agarwal13&theme=tokyonight&hide_border=true)
 
