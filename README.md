@@ -1,12 +1,8 @@
-![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranay-Agarwal13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranay-Agarwal13&show_icons=true&theme=tokyonight&hide_border=true&count_private=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-Agarwal13&layout=compact&theme=tokyonight&hide_border=true)
 
-| | |
-|---|---|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Pranay-Agarwal13&show_icons=true&theme=tokyonight&hide_border=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-Agarwal13&layout=compact&theme=tokyonight&hide_border=true) |
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Pranay-Agarwal13&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Pranay-Agarwal13&theme=tokyonight&hide_border=true)
 
 ![Snake animation](https://raw.githubusercontent.com/Pranay-Agarwal13/Pranay-Agarwal13/output/github-snake-dark.svg)
 
