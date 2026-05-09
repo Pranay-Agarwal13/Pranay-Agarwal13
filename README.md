@@ -1,6 +1,6 @@
-![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranay-Agarwal13&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&rank_icon=github)
+![Pranay's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pranay-Agarwal13&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-Agarwal13&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pranay-Agarwal13&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Pranay-Agarwal13&theme=tokyonight&hide_border=true)
 
