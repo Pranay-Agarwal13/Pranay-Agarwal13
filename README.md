@@ -57,16 +57,18 @@ I learn by building and prefer projects that solve actual problems over toy data
 > Tip: Pin these 4–5 repos on your profile and keep their individual READMEs strong (problem, solution, stack, how to run, screenshots). [9][14]
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Pranay-Agarwal13&theme=tokyonight&hide_border=true&border_radius=10)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranay-Agarwal13&theme=tokyo-night&show_icons=true&count_private=true&hide_border=true)
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Pranay-Agarwal13&theme=tokyo-night&hide_border=true&layout=compact)
+<div align="center">
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Pranay--Agarwal13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranay-Agarwal13)
+[![Followers](https://img.shields.io/github/followers/Pranay-Agarwal13?style=for-the-badge&logo=github)](https://github.com/Pranay-Agarwal13)
 
 </div>
 
