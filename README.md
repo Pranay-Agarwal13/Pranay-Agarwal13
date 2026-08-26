@@ -64,9 +64,9 @@ I learn by building and prefer projects that solve actual problems over toy data
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Pranay-Agarwal13&theme=tokyonight&hide_border=true&border_radius=10)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Pranay-Agarwal13&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=5)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranay-Agarwal13&theme=tokyo-night&show_icons=true&count_private=true&hide_border=true)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranay-Agarwal13&theme=tokyo-night&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Pranay-Agarwal13&theme=tokyo-night&hide_border=true&layout=compact)
 
 </div>
 
